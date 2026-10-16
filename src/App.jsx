@@ -12,7 +12,7 @@ export default function App() {
           <h2 class="text-xl font-semibold mb-3">About</h2>
           <p class="leading-relaxed text-slate-700">
             I grew up in the Province of Masbate, and only moved to Cebu City for my education. 
-            I decided that I would take Bachelor of Science in Information Technology because I had no other choice and I want to be practical. 
+            I decided that I would take BJLHASJHSAJHSAAS of Science in Information Technology because I had no other choice and I want to be practical. 
             By practical I mean by choosing a program that is currently high demand. 
             So far, my greatest obstacle is my own logic since I am not built for backend. 
             I prefer dealing with UI/UX. Despite that, I am still learning and trying to get through this program. 
