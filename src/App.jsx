@@ -5,7 +5,7 @@ export default function App() {
       <body class="max-w-2xl mx-auto px-6 pt-16">
 
         <h1 class="text-4xl font-semibold tracking-tight">Louraine Mae D. Javines</h1>
-        <p class="mt-2 text-lg text-slate-600">Third year BSIT student at Cebu Institute of Technology – University.</p>
+        <p class="mt-2 text-lg text-slate-600">Third year BSIT DATTEBAYO student at Cebu Institute of Technology – University.</p>
         <hr class="mt-8 border-slate-200"/>
 
         <div class="py-10">
